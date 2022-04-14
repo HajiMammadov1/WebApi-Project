@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TIF7HA0qz99bCuG9C2d+8w8cwKwGn5Gwy78NQ8QysUNNq7ptsuZQ8+VMbAdbqyrfTMi8EP/LPucTWItVEbRp6g==",
+  "dgSpecHash": "8GVkTFBYJWfn+eDXOumNg/nCVGEJxVTvu1hGmxC/WYCWOG9PG55e+GyGltKqTGDkKLQfJ8BUDGRhtBVzZWy6Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\eReconciliationBackend\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\WebApi-Project\\eReconciliationBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
